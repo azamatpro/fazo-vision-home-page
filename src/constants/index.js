@@ -171,7 +171,7 @@ const testimonials = [
   {
     testimonial:
       'GNAI pioneers industry standards and offers innovative solutions with significant impact across various sectors, making them a standout leader in tech, recognized for driving progress and transforming the future of technology.',
-    email: 'uziyatdinov@gmail.com',
+    email: 'Telegram: @deputat_kusherboyev',
     name: 'Rasul Kusherboyev',
     designation: 'Politic',
     company: 'Government',
