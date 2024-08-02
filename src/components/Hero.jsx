@@ -16,7 +16,7 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, We're <span className='text-[#915EFF]'>NG AI</span>
+            Hi, We're <span className='text-[#915EFF]'>Fazo Vision</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             We design innovative AI projects

@@ -26,14 +26,20 @@ import shopify from './company/shopify.png';
 import starbucks from './company/starbucks.png';
 import tesla from './company/tesla.png';
 import inha from './company/inha-univ.png';
+import naqdCompany from './company/naqd.png';
+import movieCompany from './company/movie.png';
 
-import SahandEstate from './SahandEstate.png';
-import CrwnClothing from './CrwnClothing.png';
-import InvoiceApp from './InvoiceApp.png';
-import ishop from './ishop-img.png';
-import professor from './professor.png';
-import yuldashev from './yuldashev.png';
-import umidjon from './umidjon.png';
+import anvar from './anvar.jpeg';
+import abu from './abu.jpeg';
+import rasul from './rasul.jpeg';
+import facialEmotionImage from './face.jpeg';
+import gameImage from './2048.jpeg';
+import BoardPainterImage from './paint.jpeg';
+import handGestureImage from './present.jpeg';
+import calcGestureImage from './calc.jpeg';
+import carParkingImage from './car.jpeg';
+import glanceDetectionImage from './glance.jpeg';
+import quizImage from './quiz.jpeg';
 
 export {
   logo,
@@ -62,11 +68,17 @@ export {
   starbucks,
   tesla,
   inha,
-  SahandEstate,
-  CrwnClothing,
-  InvoiceApp,
-  ishop,
-  professor,
-  yuldashev,
-  umidjon,
+  anvar,
+  rasul,
+  abu,
+  carParkingImage,
+  BoardPainterImage,
+  facialEmotionImage,
+  gameImage,
+  handGestureImage,
+  calcGestureImage,
+  glanceDetectionImage,
+  quizImage,
+  naqdCompany,
+  movieCompany,
 };
