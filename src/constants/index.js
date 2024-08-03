@@ -221,7 +221,7 @@ const projects = [
     ],
     image: facialEmotionImage, // Placeholder for the image variable
     source_code_link: 'https://github.com/Next-Generation-of-AI/face_emotion',
-    web_code_link: 'https://face-emotion-detection.vercel.app', // Placeholder for the live demo link
+    web_code_link: 'https://github.com/Next-Generation-of-AI/face_emotion', // Placeholder for the live demo link
   },
   {
     name: '2048 Game',
@@ -265,7 +265,7 @@ const projects = [
     ],
     image: BoardPainterImage, // Placeholder for the image variable
     source_code_link: 'https://github.com/Next-Generation-of-AI/Painter',
-    web_code_link: 'https://painter-app.vercel.app', // Placeholder for the live demo link
+    web_code_link: 'https://github.com/Next-Generation-of-AI/Painter', // Placeholder for the live demo link
   },
   {
     name: 'Hand Gesture Presentation',
@@ -286,7 +286,7 @@ const projects = [
     ],
     image: handGestureImage, // Placeholder for the image variable
     source_code_link: 'https://github.com/Next-Generation-of-AI/Hand-Gesture-Controlled-Presentation-OpenCV-Python-',
-    web_code_link: 'https://presentation-gesture-control.vercel.app', // Placeholder for the live demo link
+    web_code_link: 'https://github.com/Next-Generation-of-AI/Hand-Gesture-Controlled-Presentation-OpenCV-Python-', // Placeholder for the live demo link
   },
   {
     name: 'Hand Gesture Controlled Calculator',
@@ -307,7 +307,7 @@ const projects = [
     ],
     image: calcGestureImage, // Placeholder for the image variable
     source_code_link: 'https://github.com/Next-Generation-of-AI/calculator',
-    web_code_link: 'https://calculator-gesture-control.vercel.app', // Placeholder for the live demo link
+    web_code_link: 'https://github.com/Next-Generation-of-AI/calculator', // Placeholder for the live demo link
   },
   {
     name: 'Glance Detection',
